@@ -9,4 +9,5 @@ Joumana.dargham@concordia.ca
 Student Name: Omnia Alam
 
 ## Table of contents:
-* [Weekly Journals]
+* [Weekly Journals](https://github.com/AlamOmnia/SOEN6481/tree/main/Weekly%20Journals)
+  + [WEEK 1: 18TH JANUARY- 24TH JANUARY 2024](https://github.com/AlamOmnia/SOEN6481/blob/main/Weekly%20Journals/Week1.docx)-2024/01/24
