@@ -11,3 +11,5 @@ Student Name: Omnia Alam
 ## Table of contents:
 * [Weekly Journals](https://github.com/AlamOmnia/SOEN6481/tree/main/Weekly%20Journals)
   + [WEEK 1: 18TH JANUARY- 24TH JANUARY 2024](https://github.com/AlamOmnia/SOEN6481/blob/main/Weekly%20Journals/Week1.docx)-2024/01/24
+  + [WEEK 2: 28TH JANUARY- 3RD  FEBRUARY 2024]((https://github.com/OmniaAlam/SOEN6481/blob/main/Weekly%20Journals/Week2.docx))-2024/02/02
+  + [WEEK 3: FEBRUARY 4TH -10TH   FEBRUARY 2024](https://github.com/OmniaAlam/SOEN6481/blob/main/Weekly%20Journals/Week3.docx)-2024/02/08
