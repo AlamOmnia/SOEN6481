@@ -15,4 +15,4 @@ Student Name: Omnia Alam
   + [WEEK 3: FEBRUARY 4TH - 10TH FEBRUARY 2024](https://github.com/OmniaAlam/SOEN6481/blob/main/Weekly%20Journals/Week3.docx)-2024/02/08
   + [WEEK 4: FEBRUARY 11TH - 16TH FEBRUARY 2024](https://github.com/OmniaAlam/SOEN6481/blob/main/Weekly%20Journals/Week4.docx)-2024/02/16
   + [WEEK 5: 17TH FEBRUARY - 09TH MARCH 2024](https://github.com/OmniaAlam/SOEN6481/blob/main/Weekly%20Journals/Week5.docx)-2024/03/07
-  +   + [FINAL:09TH MARCH 2024- 09TH APRIL](https://github.com/OmniaAlam/SOEN6481/blob/main/Weekly%20Journals/Last.docx)-2024/04/05
+  + [FINAL:09TH MARCH 2024- 09TH APRIL](https://github.com/OmniaAlam/SOEN6481/blob/main/Weekly%20Journals/Last.docx)-2024/04/05
